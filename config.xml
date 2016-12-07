@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     	<widget xmlns   = "http://www.w3.org/ns/widgets"
 		xmlns:gap   = "http://phonegap.com/ns/1.0"
-		id          = "es.juntadeandalucia.mapea.sepim.mapea_v4"
+		id          = "es.juntadeandalucia.mapea.sepim.cuevas-bajas"
 		versionCode = "100" 
 		version     = "1.0.0" >
 
-	<name>Prueba m4</name>
+	<name>Guía de Cuevas Bajas</name>
 	<description>
-		Puntos de Interés
+		En la guía encontrarás toda la información de interés para visitar Cuevas Bajas.
 	</description>
 	<author email="sepim.ieca@juntadeandalucia.es" href="http://www.callejerodeandalucia.es/">
 		Junta de Andalucía
